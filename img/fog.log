@@ -1,0 +1,518 @@
+----------------------------------UserTracker---------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:43 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:43 Client-Info Client OS:      Windows
+ 07/06/2019 14:43 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:43 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:43 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:43 Service Sleeping for 95 seconds
+ 07/06/2019 14:44 Middleware::Communication URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&configure&newService&json
+ 07/06/2019 14:44 Middleware::Response Success
+ 07/06/2019 14:44 Middleware::Communication URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&mac=64:1C:67:8E:2E:37|0A:00:27:00:00:09|0A:00:27:00:00:06&newService&json
+ 07/06/2019 14:44 Middleware::Authentication Waiting for authentication timeout to pass
+ 07/06/2019 14:45 Middleware::Communication Download: http://10.30.20.223/fog/management/other/ssl/srvpublic.crt
+ 07/06/2019 14:45 Data::RSA FOG Server CA cert found
+ 07/06/2019 14:45 Middleware::Authentication Cert OK
+ 07/06/2019 14:45 Middleware::Communication POST URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&authorize&newService
+ 07/06/2019 14:45 Middleware::Response Invalid security token
+ 07/06/2019 14:45 Middleware::Response Success
+ 07/06/2019 14:45 Middleware::Communication URL: http://10.30.20.223/fog/service/getversion.php?clientver&newService&json
+ 07/06/2019 14:45 Middleware::Communication URL: http://10.30.20.223/fog/service/getversion.php?newService&json
+
+ 07/06/2019 14:45 Service Creating user agent cache
+ 07/06/2019 14:45 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:45 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:45 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:45 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:45 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:45 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+---------------------------------ClientUpdater--------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:45 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:45 Client-Info Client OS:      Windows
+ 07/06/2019 14:45 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:45 Middleware::Response Success
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+----------------------------------TaskReboot----------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:45 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:45 Client-Info Client OS:      Windows
+ 07/06/2019 14:45 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:45 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:45 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------HostnameChanger-------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:45 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:45 Client-Info Client OS:      Windows
+ 07/06/2019 14:45 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:45 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:45 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+---------------------------------SnapinClient---------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:45 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:45 Client-Info Client OS:      Windows
+ 07/06/2019 14:45 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:45 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:45 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PrinterManager--------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:45 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:45 Client-Info Client OS:      Windows
+ 07/06/2019 14:45 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:45 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:45 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PowerManagement-------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:45 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:45 Client-Info Client OS:      Windows
+ 07/06/2019 14:45 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:45 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:45 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+----------------------------------UserTracker---------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:45 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:45 Client-Info Client OS:      Windows
+ 07/06/2019 14:45 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:45 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:45 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:45 Service Sleeping for 109 seconds
+ 07/06/2019 14:47 Middleware::Communication URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&configure&newService&json
+ 07/06/2019 14:47 Middleware::Response Success
+ 07/06/2019 14:47 Middleware::Communication URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&mac=64:1C:67:8E:2E:37|0A:00:27:00:00:09|0A:00:27:00:00:06&newService&json
+ 07/06/2019 14:47 Middleware::Authentication Waiting for authentication timeout to pass
+ 07/06/2019 14:47 Middleware::Communication Download: http://10.30.20.223/fog/management/other/ssl/srvpublic.crt
+ 07/06/2019 14:47 Data::RSA FOG Server CA cert found
+ 07/06/2019 14:47 Middleware::Authentication Cert OK
+ 07/06/2019 14:47 Middleware::Communication POST URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&authorize&newService
+ 07/06/2019 14:47 Middleware::Response Invalid security token
+ 07/06/2019 14:47 Middleware::Response Success
+ 07/06/2019 14:47 Middleware::Communication URL: http://10.30.20.223/fog/service/getversion.php?clientver&newService&json
+ 07/06/2019 14:47 Middleware::Communication URL: http://10.30.20.223/fog/service/getversion.php?newService&json
+
+ 07/06/2019 14:47 Service Creating user agent cache
+ 07/06/2019 14:47 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:47 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:47 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:47 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:47 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:47 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+---------------------------------ClientUpdater--------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:47 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:47 Client-Info Client OS:      Windows
+ 07/06/2019 14:47 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:47 Middleware::Response Success
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+----------------------------------TaskReboot----------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:47 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:47 Client-Info Client OS:      Windows
+ 07/06/2019 14:47 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:47 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:47 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------HostnameChanger-------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:47 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:47 Client-Info Client OS:      Windows
+ 07/06/2019 14:47 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:47 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:47 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+---------------------------------SnapinClient---------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:47 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:47 Client-Info Client OS:      Windows
+ 07/06/2019 14:47 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:47 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:47 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PrinterManager--------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:47 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:47 Client-Info Client OS:      Windows
+ 07/06/2019 14:47 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:47 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:47 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PowerManagement-------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:47 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:47 Client-Info Client OS:      Windows
+ 07/06/2019 14:47 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:47 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:47 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+----------------------------------UserTracker---------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:47 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:47 Client-Info Client OS:      Windows
+ 07/06/2019 14:47 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:47 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:47 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:47 Service Sleeping for 136 seconds
+ 07/06/2019 14:49 Middleware::Communication URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&configure&newService&json
+ 07/06/2019 14:49 Middleware::Response Success
+ 07/06/2019 14:49 Middleware::Communication URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&mac=64:1C:67:8E:2E:37|0A:00:27:00:00:09|0A:00:27:00:00:06&newService&json
+ 07/06/2019 14:49 Middleware::Authentication Waiting for authentication timeout to pass
+ 07/06/2019 14:49 Middleware::Communication Download: http://10.30.20.223/fog/management/other/ssl/srvpublic.crt
+ 07/06/2019 14:49 Data::RSA FOG Server CA cert found
+ 07/06/2019 14:49 Middleware::Authentication Cert OK
+ 07/06/2019 14:49 Middleware::Communication POST URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&authorize&newService
+ 07/06/2019 14:49 Middleware::Response Invalid security token
+ 07/06/2019 14:49 Middleware::Response Success
+ 07/06/2019 14:49 Middleware::Communication URL: http://10.30.20.223/fog/service/getversion.php?clientver&newService&json
+ 07/06/2019 14:49 Middleware::Communication URL: http://10.30.20.223/fog/service/getversion.php?newService&json
+
+ 07/06/2019 14:49 Service Creating user agent cache
+ 07/06/2019 14:49 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:49 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:49 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:49 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:49 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:49 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+---------------------------------ClientUpdater--------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:49 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:49 Client-Info Client OS:      Windows
+ 07/06/2019 14:49 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:49 Middleware::Response Success
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+----------------------------------TaskReboot----------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:49 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:49 Client-Info Client OS:      Windows
+ 07/06/2019 14:49 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:49 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:49 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------HostnameChanger-------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:49 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:49 Client-Info Client OS:      Windows
+ 07/06/2019 14:49 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:49 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:49 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+---------------------------------SnapinClient---------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:49 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:49 Client-Info Client OS:      Windows
+ 07/06/2019 14:49 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:49 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:49 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PrinterManager--------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:49 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:49 Client-Info Client OS:      Windows
+ 07/06/2019 14:49 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:49 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:49 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PowerManagement-------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:49 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:49 Client-Info Client OS:      Windows
+ 07/06/2019 14:49 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:49 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:49 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+----------------------------------UserTracker---------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:49 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:49 Client-Info Client OS:      Windows
+ 07/06/2019 14:49 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:49 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:49 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:49 Service Sleeping for 151 seconds
+ 07/06/2019 14:52 Middleware::Communication URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&configure&newService&json
+ 07/06/2019 14:52 Middleware::Response Success
+ 07/06/2019 14:52 Middleware::Communication URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&mac=64:1C:67:8E:2E:37|0A:00:27:00:00:09|0A:00:27:00:00:06&newService&json
+ 07/06/2019 14:52 Middleware::Authentication Waiting for authentication timeout to pass
+ 07/06/2019 14:52 Middleware::Communication Download: http://10.30.20.223/fog/management/other/ssl/srvpublic.crt
+ 07/06/2019 14:52 Data::RSA FOG Server CA cert found
+ 07/06/2019 14:52 Middleware::Authentication Cert OK
+ 07/06/2019 14:52 Middleware::Communication POST URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&authorize&newService
+ 07/06/2019 14:52 Middleware::Response Invalid security token
+ 07/06/2019 14:52 Middleware::Response Success
+ 07/06/2019 14:52 Middleware::Communication URL: http://10.30.20.223/fog/service/getversion.php?clientver&newService&json
+ 07/06/2019 14:52 Middleware::Communication URL: http://10.30.20.223/fog/service/getversion.php?newService&json
+
+ 07/06/2019 14:52 Service Creating user agent cache
+ 07/06/2019 14:52 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:52 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:52 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:52 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:52 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:52 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+---------------------------------ClientUpdater--------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:52 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:52 Client-Info Client OS:      Windows
+ 07/06/2019 14:52 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:52 Middleware::Response Success
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+----------------------------------TaskReboot----------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:52 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:52 Client-Info Client OS:      Windows
+ 07/06/2019 14:52 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:52 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:52 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------HostnameChanger-------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:52 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:52 Client-Info Client OS:      Windows
+ 07/06/2019 14:52 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:52 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:52 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+---------------------------------SnapinClient---------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:52 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:52 Client-Info Client OS:      Windows
+ 07/06/2019 14:52 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:52 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:52 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PrinterManager--------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:52 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:52 Client-Info Client OS:      Windows
+ 07/06/2019 14:52 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:52 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:52 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PowerManagement-------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:52 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:52 Client-Info Client OS:      Windows
+ 07/06/2019 14:52 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:52 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:52 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+----------------------------------UserTracker---------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:52 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:52 Client-Info Client OS:      Windows
+ 07/06/2019 14:52 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:52 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:52 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:52 Service Sleeping for 126 seconds
+ 07/06/2019 14:54 Middleware::Communication URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&configure&newService&json
+ 07/06/2019 14:54 Middleware::Response Success
+ 07/06/2019 14:54 Middleware::Communication URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&mac=64:1C:67:8E:2E:37|0A:00:27:00:00:09|0A:00:27:00:00:06&newService&json
+ 07/06/2019 14:54 Middleware::Authentication Waiting for authentication timeout to pass
+ 07/06/2019 14:54 Middleware::Communication Download: http://10.30.20.223/fog/management/other/ssl/srvpublic.crt
+ 07/06/2019 14:54 Data::RSA FOG Server CA cert found
+ 07/06/2019 14:54 Middleware::Authentication Cert OK
+ 07/06/2019 14:54 Middleware::Communication POST URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&authorize&newService
+ 07/06/2019 14:54 Middleware::Response Invalid security token
+ 07/06/2019 14:54 Middleware::Response Success
+ 07/06/2019 14:54 Middleware::Communication URL: http://10.30.20.223/fog/service/getversion.php?clientver&newService&json
+ 07/06/2019 14:54 Middleware::Communication URL: http://10.30.20.223/fog/service/getversion.php?newService&json
+
+ 07/06/2019 14:54 Service Creating user agent cache
+ 07/06/2019 14:54 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:54 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:54 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:54 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:54 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:54 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+---------------------------------ClientUpdater--------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:54 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:54 Client-Info Client OS:      Windows
+ 07/06/2019 14:54 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:54 Middleware::Response Success
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+----------------------------------TaskReboot----------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:54 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:54 Client-Info Client OS:      Windows
+ 07/06/2019 14:54 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:54 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:54 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------HostnameChanger-------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:54 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:54 Client-Info Client OS:      Windows
+ 07/06/2019 14:54 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:54 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:54 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+---------------------------------SnapinClient---------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:54 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:54 Client-Info Client OS:      Windows
+ 07/06/2019 14:54 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:54 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:54 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PrinterManager--------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:54 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:54 Client-Info Client OS:      Windows
+ 07/06/2019 14:54 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:54 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:54 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PowerManagement-------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:54 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:54 Client-Info Client OS:      Windows
+ 07/06/2019 14:54 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:54 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:54 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+----------------------------------UserTracker---------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:54 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:54 Client-Info Client OS:      Windows
+ 07/06/2019 14:54 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:54 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:54 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:54 Service Sleeping for 140 seconds
+ 07/06/2019 14:56 Middleware::Communication URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&configure&newService&json
+ 07/06/2019 14:56 Middleware::Response Success
+ 07/06/2019 14:56 Middleware::Communication URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&mac=64:1C:67:8E:2E:37|0A:00:27:00:00:09|0A:00:27:00:00:06&newService&json
+ 07/06/2019 14:56 Middleware::Authentication Waiting for authentication timeout to pass
+ 07/06/2019 14:56 Middleware::Communication Download: http://10.30.20.223/fog/management/other/ssl/srvpublic.crt
+ 07/06/2019 14:56 Data::RSA FOG Server CA cert found
+ 07/06/2019 14:56 Middleware::Authentication Cert OK
+ 07/06/2019 14:56 Middleware::Communication POST URL: http://10.30.20.223/fog/management/index.php?sub=requestClientInfo&authorize&newService
+ 07/06/2019 14:56 Middleware::Response Invalid security token
+ 07/06/2019 14:56 Middleware::Response Success
+ 07/06/2019 14:56 Middleware::Communication URL: http://10.30.20.223/fog/service/getversion.php?clientver&newService&json
+ 07/06/2019 14:56 Middleware::Communication URL: http://10.30.20.223/fog/service/getversion.php?newService&json
+
+ 07/06/2019 14:56 Service Creating user agent cache
+ 07/06/2019 14:56 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:56 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:56 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:56 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:56 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:56 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+---------------------------------ClientUpdater--------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:56 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:56 Client-Info Client OS:      Windows
+ 07/06/2019 14:56 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:56 Middleware::Response Success
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+----------------------------------TaskReboot----------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:56 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:56 Client-Info Client OS:      Windows
+ 07/06/2019 14:56 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:56 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:56 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------HostnameChanger-------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:56 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:56 Client-Info Client OS:      Windows
+ 07/06/2019 14:56 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:56 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:56 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+---------------------------------SnapinClient---------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:56 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:56 Client-Info Client OS:      Windows
+ 07/06/2019 14:56 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:56 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:56 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PrinterManager--------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:56 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:56 Client-Info Client OS:      Windows
+ 07/06/2019 14:56 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:56 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:56 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PowerManagement-------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:56 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:56 Client-Info Client OS:      Windows
+ 07/06/2019 14:56 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:56 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:56 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+
+------------------------------------------------------------------------------
+----------------------------------UserTracker---------------------------------
+------------------------------------------------------------------------------
+ 07/06/2019 14:56 Client-Info Client Version: 0.11.16
+ 07/06/2019 14:56 Client-Info Client OS:      Windows
+ 07/06/2019 14:56 Client-Info Server Version: 1.5.4
+ 07/06/2019 14:56 Middleware::Response ERROR: Unable to get subsection
+ 07/06/2019 14:56 Middleware::Response ERROR: Referência de objeto não definida para uma instância de um objeto.
+ 07/06/2019 14:56 Service Sleeping for 142 seconds

@@ -1,0 +1,9 @@
+{
+    "usuarios": [{
+        "id": "usuario1",
+        "nomeUsuario": "teste",
+        "email": "a@a.com",
+        "senha": "$2y$10$M0j3S4kaLHTYIs1se7J.9.qFHZTHiG6oDPwyNYu2pNhPNssoc5k5i",
+        "niveldeAcesso": "0"
+    }]
+}
