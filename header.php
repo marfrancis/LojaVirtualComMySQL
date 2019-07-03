@@ -1,4 +1,13 @@
-<?php include_once "ler-json.php"; ?>
+<?php 
+@session_start();
+include_once "conexao.php";
+$usuario = new Usuario();
+if(isset($_SESSION['usuario'])) {
+    $usuario->id = $_SESSION['usuario'];
+    $usuarios = Usuario::pesquisarUm($usuario);
+    if(sizeof($usuarios)) $usuario = $usuarios[0];
+}
+?>
 <header >
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -12,9 +21,9 @@
             <ul class="navbar-nav">
 
 
-                <?php if(isset($usuario) && $usuario != "" && $usuario['logado']): ?>
+                <?php if($usuario->id != 0): ?>
 
-                    <?php if($usuario['nivelAcesso'] == 0):?>
+                    <?php if($usuario->acesso == 0):?>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Ações</a>
                             <div class="dropdown-menu">
@@ -32,7 +41,7 @@
 
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                                Olá <?php echo $usuario['nome']; ?>
+                                Olá <?php echo $usuario->nome; ?>
                             </a>
                             <div class="dropdown-menu">
                                 <a class="dropdown-item" href="logoff.php">Sair</a>

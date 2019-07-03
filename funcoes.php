@@ -52,7 +52,7 @@ function validarCartao($cartaoCliente){
 
 
 function validarDataValidade($dataValidade){
-    return $dataValidade > date('y-m-d');
+    return $dataValidade > date('Y-m-d');
 }
 
 function validarCVV($cvv){
